@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="title desc">
+<title id="title">Rohan Gautam — thoughtful software, purposeful projects</title>
+<desc id="desc">An ivory editorial banner with blue architectural shapes and a terracotta accent.</desc>
+<rect width="1280" height="360" fill="#f5f2e9"/>
+<rect x="970" y="0" width="310" height="360" fill="#193c50"/>
+<path d="M1030 300V120h65v180m32 0V70h65v230m32 0V165h56" fill="none" stroke="#a8c1c2" stroke-width="2"/>
+<circle cx="1080" cy="76" r="27" fill="#ce6547"/>
+<path d="M1030 325h215" stroke="#e9e1cb" stroke-width="2"/>
+<text x="62" y="63" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#785547">SELECTED WORK / ROHAN GAUTAM</text>
+<text x="58" y="148" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#193c50">Thoughtful software.</text>
+<text x="58" y="218" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#193c50">Purposeful projects.</text>
+<text x="62" y="298" font-family="Arial,sans-serif" font-size="18" fill="#50616a">COMMUNITY TECHNOLOGY / WEB / APPLIED VISION</text>
+</svg>
