@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050505,25:111827,55:312E81,80:155E75,100:050505&text=ROHAN GAUTAM.&fontSize=85&fontColor=FFFFFF&stroke=64748B&strokeWidth=1&animation=twinkling&fontAlignY=48" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050505,25:111827,55:312E81,80:155E75,100:050505&text=ROHAN-GAUTAM.&fontSize=85&fontColor=FFFFFF&stroke=64748B&strokeWidth=1&animation=twinkling&fontAlignY=48" width="100%" />
 
 <br/>
 
