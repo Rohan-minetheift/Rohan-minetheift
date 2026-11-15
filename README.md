@@ -1,73 +1,85 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:050505,50:17191D,100:08090B&text=ROHAN&fontSize=100&fontColor=E7E7E7&fontAlignY=48&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=0:020204,20:11112B,45:312E81,70:581C87,100:020204&text=VOID&fontSize=120&fontColor=FFFFFF&stroke=818CF8&strokeWidth=1&animation=twinkling&fontAlignY=48" width="100%"/>
+
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=A5A5C7&center=true&vCenter=true&width=700&lines=NOTHING+IS+ORDINARY.;WELCOME+TO+THE+UNEXPECTED.;CREATE+WITHOUT+LIMITS.;DREAM+IN+INFINITE+DIMENSIONS." />
+
+<br/><br/><br/><br/>
+
+<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1800&q=90" width="100%"/>
+
+<br/><br/><br/>
+
+# ━━━━━━━ 01 / THE UNKNOWN ━━━━━━━
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&weight=400&duration=4500&pause=1600&color=B4B4B8&center=true&vCenter=true&width=700&lines=A+study+in+curiosity.;An+appreciation+for+the+unseen.;Always+becoming." />
+### Somewhere between reality and imagination.
 
 <br/><br/>
 
-`CURIOSITY` &nbsp;&nbsp; / &nbsp;&nbsp; `IMAGINATION` &nbsp;&nbsp; / &nbsp;&nbsp; `CREATION`
+*An open space for curiosity, unexpected ideas and beautiful chaos.*
+
+<br/><br/><br/><br/>
+
+<img src="https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?auto=format&fit=crop&w=1800&q=90" width="100%"/>
 
 <br/><br/><br/>
 
-<img src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1800&q=90" width="100%"/>
-
-<br/><br/><br/>
-
-<sub>01 — THE ART OF POSSIBILITY</sub>
+# ━━━━━━━ 02 / ANOTHER DIMENSION ━━━━━━━
 
 <br/><br/>
 
-# LESS, BUT BETTER.
-
-<br/>
-
-*There is beauty in what remains unexplored.*
-
-<br/><br/><br/><br/>
-
-<img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1800&q=90" width="100%"/>
+<img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1200&q=90" width="85%"/>
 
 <br/><br/><br/>
 
-<sub>02 — BEYOND THE FRAME</sub>
-
-<br/><br/>
-
-### SEE THINGS DIFFERENTLY.
-
-<br/><br/><br/><br/>
-
-<img src="https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1800&q=90" width="100%"/>
+### THERE ARE NO STRAIGHT LINES IN THE UNIVERSE.
 
 <br/><br/><br/>
 
-<sub>03 — FORM & STRUCTURE</sub>
-
-<br/><br/>
-
-*Ideas are infinite. Possibilities are endless.*
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3500&pause=900&color=818CF8&center=true&vCenter=true&width=650&lines=Explore+the+unexplored.;Question+the+obvious.;Make+the+impossible+interesting." />
 
 <br/><br/><br/><br/>
 
-<img src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1800&q=90" width="100%"/>
+<img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?auto=format&fit=crop&w=1800&q=90" width="100%"/>
 
 <br/><br/><br/>
 
-<sub>04 — THE QUIET BETWEEN</sub>
+# ━━━━━━━ 03 / BEAUTIFUL CHAOS ━━━━━━━
 
 <br/><br/>
 
-# STAY CURIOUS.
+<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1800&q=90" width="100%"/>
 
 <br/><br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=5000&pause=1500&color=9CA3AF&center=true&vCenter=true&width=700&lines=Not+everything+needs+an+explanation.;Some+things+are+meant+to+be+explored." />
+### THINK DIFFERENTLY.
+
+### SEE BEYOND.
+
+### CREATE FEARLESSLY.
 
 <br/><br/><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:08090B,50:17191D,100:050505&section=footer" width="100%"/>
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1800&q=90" width="100%"/>
+
+<br/><br/>
+
+# ━━━━━━━ 04 / INFINITE POSSIBILITIES ━━━━━━━
+
+<br/><br/><br/>
+
+`DREAM` &nbsp; ✳ &nbsp; `EXPLORE` &nbsp; ✳ &nbsp; `CREATE`
+
+<br/><br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=4000&pause=1500&color=C4B5FD&center=true&vCenter=true&width=650&lines=The+story+is+still+being+written...;This+is+only+the+beginning.;See+you+somewhere+in+the+universe." />
+
+<br/><br/><br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020204,30:312E81,65:581C87,100:020204&section=footer&animation=twinkling" width="100%"/>
 
 </div>
