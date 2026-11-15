@@ -1,42 +1,28 @@
-<img src="assets/profile-banner.svg" width="100%" alt="Rohan Gautam — thoughtful software, purposeful projects">
+## Projects
 
-# Rohan Gautam
+Android apps, connected devices and a few research builds.  
+Each app can be downloaded as an APK from **[Releases](https://github.com/Rohan-minetheift/Projects-Showcase/releases)**.
 
-**Community technology · Web experiences · Applied computer-vision prototypes**
+&nbsp;
 
-I build and explore software for community information, learning and accessible interaction. This profile brings together selected project stories; implementation repositories are maintained separately from the public presentation.
+| | Project | What it does | Built with |
+|---|---|---|---|
+| ◼ | **[HIMGAURAV](https://github.com/Rohan-minetheift/HIMGAURAV-Showcase)** | Himalayan landslide research and community reporting | Web · Android |
+| ◼ | **Align** | A consistency engine: streaks, focus sessions, a brain dump and daily goals | Flutter |
+| ◼ | **Agricore** | Farm automation: wire sensors to an ESP32 board on screen, then monitor them live | Flutter · ESP32 |
+| ◼ | **Praxis** | A minimal launcher that adds friction before distracting apps open | Kotlin · Compose |
+| ◼ | **Fluid Routine Planner** | Routine planner with a biometric-locked, encrypted vault | Kotlin · Compose |
 
-[Explore selected projects](https://github.com/Rohan-minetheift/Projects-Showcase) · [HIMGAURAV showcase](https://github.com/Rohan-minetheift/HIMGAURAV-Showcase)
+&nbsp;
 
-## In focus
+### Also building
 
-### HIMGAURAV
+`UWB radar simulation` · `Pruned neural nets for mmWave sensors` · `Delay-tolerant mesh networking` · `Microwave sensor design`
 
-**Himalayan landslide research and community reporting.**
+&nbsp;
 
-A community-facing web and Android experience paired with restricted operations and research workflows. The emphasis is clear source labels, deliberate reporting and human review—not unsupported prediction claims.
+→ **[Full project notes](https://github.com/Rohan-minetheift/Projects-Showcase)**
 
-[See the experience and verification boundaries →](https://github.com/Rohan-minetheift/HIMGAURAV-Showcase)
+&nbsp;
 
-## Selected explorations
-
-| Project | Focus |
-| --- | --- |
-| **T&P Club Hub** | Student and faculty workflows for activities, resources and placement-club coordination |
-| **signCONV** | A camera-based hand-gesture-to-text and speech prototype |
-| **FaceREC** | Face-recognition interface and local camera-processing experiments |
-| **LOGIN-portal** | Frontend sign-in, recovery and account-interface design |
-
-These summaries describe project scope, not independent claims of accuracy, security certification or production readiness. Read the [curated project notes](https://github.com/Rohan-minetheift/Projects-Showcase) for boundaries.
-
-## What I care about
-
-- Interfaces that explain what a person can do next.
-- Clear separation between a prototype, a tested behavior and a validated result.
-- Public storytelling that does not expose private operational data.
-
-## About this profile
-
-This is a curated portfolio, not a mirror of every experiment. No personal datasets, administrator access, credentials or backend configuration belong here. Project references do not imply institutional endorsement. Existing third-party licenses and attribution obligations still apply.
-
-For project discussions, use an independently verified contact channel. Please do not post credentials, private reports or personal data in public GitHub discussions.
+<sub>Selected work. Source code and configuration stay private.</sub>
