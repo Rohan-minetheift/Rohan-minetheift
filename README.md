@@ -1,7 +1,6 @@
 ## Projects
 
-Android apps, connected devices and a few research builds.  
-Each app can be downloaded as an APK from **[Releases](https://github.com/Rohan-minetheift/Projects-Showcase/releases)**.
+Android apps, connected devices and a few research builds.
 
 &nbsp;
 
